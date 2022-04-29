@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="App"
+>
+  <textarea
+    onChange={[Function]}
+    value=""
+  />
+  <label
+    className="sign"
+  >
+    equal
+  </label>
+  <textarea
+    onChange={[Function]}
+    value=""
+  />
+  <div />
+  <label
+    className="count"
+  >
+    Word count: 
+    0
+  </label>
+  <label
+    className="count"
+  >
+    Word count: 
+    0
+  </label>
+</div>
+`;
